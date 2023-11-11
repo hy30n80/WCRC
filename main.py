@@ -13,4 +13,4 @@ st.text("Hello Streamlit!!")
 #파일 업로드
 file = st.file_uploader("Upload your Menu Image", type=['jpg','png','jpeg'] )
 
-st.image(file)q
+st.image(file)
